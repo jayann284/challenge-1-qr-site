@@ -42,3 +42,20 @@ img {
     font-family: Outfit, sans-serif;
     font-weight: 400, 700;
 }
+
+.attribution {
+    font-family: Outfit, sans-serif;
+    font-size: 10px;
+}
+
+footer {
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Century Gothic', sans-serif;
+    padding: 20px 0;
+    background-color: #d5e1ef;
+    bottom: 0;
+    margin: 0;
+    width: 100%;
+    position: absolute;
+  }
